@@ -1,4 +1,4 @@
-# Demo_project
+# Email_otp_verification
 Email OTP Verificartion
 Email OTP verification is a security mechanism used to confirm a user's identity by sending a unique code to their email address. The user must enter this code on the verification page to complete the authentication process. This system enhances security by ensuring that the user has access to the email address they provided.
 Implementation (HTML,CSS,J)
